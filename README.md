@@ -26,8 +26,8 @@ Follow the steps below to set up and run the project.
 ### 1. Clone the Repository  
 
 ```bash
-git clone https://github.com/your-username/culture-atlas.git
-cd culture-atlas
+git clone https://github.com/RutviBhoraniya/CultureAtlas.git
+cd CultureAtlas
 ```
 ### 2. Setup Backend (Server)
 
