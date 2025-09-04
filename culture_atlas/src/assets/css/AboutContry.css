@@ -1,0 +1,8 @@
+.AboutContry{
+    white-space: pre-line;
+}
+
+.AboutContry .about-item,.festival-Iteam{
+    font-size: 18px;
+    font-weight: 600;
+}

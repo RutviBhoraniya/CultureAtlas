@@ -1,0 +1,43 @@
+.ContryCulture{
+    margin-top: 100px;
+}
+.ContryCulture {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+/* CultureList on the left */
+.culture-list {
+  flex: 0 0 350px; /* fixed width for sidebar */
+  display: flex;
+  flex-direction: column;
+  border-right: 2px solid #eee;
+  padding-right: 10px;
+}
+
+/* Content on the right */
+.culture-content {
+  flex: 1;
+  padding: 16px;
+}
+
+/* Responsive: stack vertically below 768px */
+@media (max-width: 768px) {
+  .ContryCulture {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .culture-list {
+    flex: none;
+    width: 100%;
+    border-right: none;
+    border-bottom: 2px solid #eee;
+    margin-bottom: 16px;
+  }
+
+  .culture-item {
+    text-align: center;
+  }
+}

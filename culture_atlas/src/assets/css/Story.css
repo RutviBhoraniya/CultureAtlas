@@ -1,0 +1,40 @@
+.story-card {
+  background-color: #fffbea;
+  /* soft yellow */
+  border-radius: 12px;
+  padding: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  /* text-align: center; */
+  transition: transform 0.2s ease-in-out;
+  width: 45%;
+}
+
+.story-image {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  height: 500px;
+}
+
+.story-title {
+  font-size: 1.2rem;
+  color: #856404;
+  /* darker yellow-brown */
+  margin-bottom: 5px;
+  margin-left: 10px;
+  font-weight: bold;
+}
+
+.story-description {
+  font-size: 0.95rem;
+  color: #5c4b27;
+  line-height: 1.4;
+  margin-left: 10px;
+}
+
+@media (max-width: 768px) {
+  .story-card {
+    width: 100%;
+  }
+}

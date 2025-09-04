@@ -1,0 +1,1760 @@
+[
+    {
+        "name": "Canada",
+        "about": {
+            "description": "Canada is the second-largest country in the world, stretching from the Atlantic Ocean in the east to the Pacific Ocean in the west and northward into the Arctic Ocean. Its vast landmass includes towering mountain ranges, massive lakes, fertile plains, and icy tundra.\nThe capital city is Ottawa, known for its government institutions, cultural museums, and bilingual environment. Major metropolitan areas include Toronto (the financial hub and most multicultural city), Vancouver (gateway to the Pacific, with a strong Asian influence), and Montreal (a French-speaking cultural center with a European vibe).",
+            "Languages": "Canada has two official languages — English and French. English dominates in most provinces, while French is the primary language in Quebec. Immigrant communities also speak Punjabi, Mandarin, Cantonese, Arabic, Spanish, and Tagalog.",
+            "Population": "Approximately 39 million people, making it one of the most multicultural societies in the world. Almost 25% of Canadians are foreign-born.",
+            "Climate": "Winters are long and cold in most regions, with heavy snowfall and freezing temperatures (−20°C or lower in some areas). Summers are generally warm (20–30°C), but climate varies greatly depending on the province.",
+            "Government": "A parliamentary democracy under a constitutional monarchy, with the British monarch as the head of state.",
+            "Currency": "The Canadian Dollar (CAD).",
+            "Famous": "Ice hockey, maple syrup, poutine, Niagara Falls, polite people, Indigenous heritage, and being one of the top destinations for higher education."
+        },
+        "greetings": [
+            "A handshake is the most common greeting in formal and professional settings. A smile and friendly “Hello” or “Nice to meet you” are polite.",
+            "Among friends, casual greetings like “Hi,” “Hey,” or even a light hug are common. Canadians are usually warm but respect personal space.",
+            "Politeness is a cultural trademark — Canadians are known for saying “sorry” even when it isn’t their fault, and thanking others for even small gestures.",
+            "Eye contact is considered respectful and shows attentiveness, but staring is avoided.",
+            "Communication style is direct but polite. Canadians value honesty, but conversations remain respectful and often lighthearted.",
+            "Avoid overly personal or controversial topics (like income, politics, or religion) until you know someone well.",
+            "Technology is widely used — students and professionals often communicate via email, text, or platforms like WhatsApp and LinkedIn."
+        ],
+        "academic": [
+            "Canadian universities promote critical thinking and open discussion. Students are encouraged to ask questions, express opinions, and participate in debates.",
+            "Professors are approachable and may allow students to call them by first name, though some prefer “Professor” or “Dr.”",
+            "Assignments, essays, and group projects are common. Plagiarism is taken very seriously, and failing to cite properly can lead to disciplinary action.",
+            "Attendance expectations vary by university, but participation often affects grades.",
+            "Grading system is usually in percentages or GPA (out of 4.0).",
+            "Students are expected to work independently but also collaborate in group work.",
+            "Campuses are vibrant with clubs, sports teams, student associations, and cultural events, offering opportunities for networking and friendships."
+        ],
+        "dailyLife": [
+            "Punctuality is very important in Canada. Being late for classes, meetings, or social gatherings is seen as disrespectful.",
+            "Queuing (lining up) is strictly followed. Cutting the line is considered rude.",
+            "Dining etiquette: Canadians generally use forks and knives. It is polite to keep hands visible at the table but not resting elbows on it. Tipping (15–20%) is expected in restaurants, taxis, and for services like haircuts.",
+            "Dress is generally casual and weather-based. Winters require layered clothing, thick jackets, gloves, and boots. Summers are relaxed with t-shirts and jeans.",
+            "Public behavior: Canadians are quiet and respectful in buses, libraries, and classrooms. Loud or disruptive behavior in public is frowned upon.",
+            "Gift-giving: If invited to a Canadian home, bringing wine, flowers, or a small gift is appreciated."
+        ],
+        "festival": [
+            {
+                "title": "Canada Day (July 1)",
+                "description": "National celebration with fireworks, parades, and concerts."
+            },
+            {
+                "title": "Thanksgiving (2nd Monday of October)",
+                "description": "Family holiday with turkey dinner, expressing gratitude."
+            },
+            {
+                "title": "Christmas (December 25)",
+                "description": "Widely celebrated with decorations, gifts, and family gatherings."
+            },
+            {
+                "title": "New Year’s Eve",
+                "description": "Public celebrations, countdowns, and fireworks."
+            },
+            {
+                "title": "Multicultural festivals",
+                "description": "Eid, Diwali, Chinese New Year, Hanukkah, and Vaisakhi are celebrated by diverse communities."
+            },
+            {
+                "title": "Indigenous traditions",
+                "description": "Pow Wows and National Indigenous Peoples Day (June 21) honor First Nations, Métis, and Inuit cultures"
+            },
+            {
+                "title": "Winter festivals",
+                "description": "Ottawa’s Winterlude and Quebec’s Winter Carnival feature ice sculptures, skating, and snow sports."
+            }
+        ],
+        "lifestyle": [
+            {
+                "title": "Housing",
+                "description": "Students usually stay in university residences, shared apartments, or homestays. Rent varies — Toronto and Vancouver are costly, while smaller cities are more affordable."
+            },
+            {
+                "title": "Food habits",
+                "description": "Canadian cuisine blends European traditions with global influences. Staples include bread, meat, pasta, and dairy. Multicultural food (Indian, Chinese, Middle Eastern, Mexican) is easily available. A Canadian specialty is poutine (fries with cheese curds and gravy)."
+            },
+            {
+                "title": "Coffee culture",
+                "description": "Tim Hortons is a national icon. Coffee runs are part of daily life."
+            },
+            {
+                "title": "Work-life balance",
+                "description": "Canadians value leisure and family time. Students often take part-time jobs (20 hrs/week max during semester)."
+            },
+            {
+                "title": "Shopping",
+                "description": "Big retailers like Walmart and Costco, as well as small local shops. Online shopping (Amazon, Uber Eats) is common."
+            },
+            {
+                "title": "Health & fitness",
+                "description": "Many Canadians are active — jogging, hiking, skiing, cycling, and gym workouts are popular."
+            }
+        ],
+        "socialConnections": [
+            "Canadians are friendly but may take time to build close relationships. Friendships often start casually through classes, clubs, or activities.",
+            "Socializing happens in cafes, pubs, student events, parks, and outdoor activities.",
+            "Dating culture is open and casual. Consent, equality, and respect are very important.",
+            "Family values: Families are usually nuclear, but there is strong respect for parents and elders.",
+            "Inclusivity: Canada is one of the most diverse and LGBTQ+-friendly countries in the world. People are encouraged to celebrate cultural identity.",
+            "Networking is encouraged, especially through career fairs, LinkedIn, alumni networks, and volunteering."
+        ],
+        "practicalInformation": [
+            {
+                "title": "Currency",
+                "description": "Canadian Dollar (CAD). Coins include the $1 “loonie” and $2 “toonie.”"
+            },
+            {
+                "title": "Transport",
+                "description": "Public transport is well-organized (subways, buses, trams). Student passes offer discounts. In smaller cities, cars or bicycles are common."
+            },
+            {
+                "title": "Banking",
+                "description": "Students can open bank accounts easily. Debit/credit cards are the primary mode of payment. Digital payment apps (Interac, Apple Pay, Google Pay) are widely used."
+            },
+            {
+                "title": "Healthcare",
+                "description": "Canada has universal healthcare, but international students need private or university health insurance. Pharmacies are accessible."
+            },
+            {
+                "title": "Emergency numbers",
+                "description": "Dial 911 for police, ambulance, and fire."
+            },
+            {
+                "title": "Mobile/Internet:",
+                "description": "Affordable SIMs available from Rogers, Bell, Telus, Fido, Freedom. Free Wi-Fi is available in most campuses and cafes."
+            },
+            {
+                "title": "Weather advice",
+                "description": "Winters require thermal clothing, snow boots, scarves, and gloves. Summers are warm, so lighter clothes are needed."
+            }
+        ],
+        "dos": [
+            "Be polite: Always use “please,” “thank you,” and “sorry.”",
+            "Be punctual for classes, meetings, and social events.",
+            "Embrace diversity and learn about different cultures.",
+            "Recycle and respect environmental rules (Canada is eco-conscious).",
+            "Participate in local festivals, try Canadian foods, and enjoy outdoor life."
+        ],
+        "donts": [
+            "Don’t skip queues or push ahead of others.",
+            "Don’t make jokes about race, religion, or gender — it’s considered offensive.",
+            "Don’t litter or ignore recycling bins.",
+            "Don’t underestimate the weather — ignoring winter safety can be dangerous.",
+            "Don’t assume everyone drinks alcohol or eats meat — respect dietary choices."
+        ]
+    },
+    {
+        "name": "India",
+        "about": {
+            "description": "India, officially the Republic of India, is the world’s seventh-largest country by area and the most populous nation, located in South Asia. It shares borders with Pakistan, China, Nepal, Bhutan, Bangladesh, and Myanmar, and is surrounded by the Indian Ocean, Arabian Sea, and Bay of Bengal. Known as the 'land of diversity,' India has a rich heritage of history, culture, and traditions. Its capital is New Delhi, while major metropolitan cities include Mumbai (the financial capital), Bangalore (the IT hub), and Kolkata (the cultural capital).",
+            "Languages": "India has two official languages at the national level — Hindi and English. Additionally, there are 22 constitutionally recognized languages such as Bengali, Tamil, Telugu, Marathi, Gujarati, Punjabi, and Malayalam. Over 1,600 dialects are spoken across the country.",
+            "Population": "Over 1.4 billion people, making it the world’s largest democracy. India is home to multiple ethnicities, religions, and cultural identities.",
+            "Climate": "India has diverse climates: tropical in the south, desert in the west, temperate in the north, and alpine in the Himalayas. Summers can be very hot (35–45°C in many regions), monsoons bring heavy rains (June–September), and winters vary from mild in the south to severe cold in the north.",
+            "Government": "A federal parliamentary democratic republic with a President as head of state and Prime Minister as head of government.",
+            "Currency": "The Indian Rupee (INR ₹).",
+            "Famous": "Yoga, Ayurveda, Bollywood, spices, the Taj Mahal, cricket, classical dance forms, diverse cuisines, and colorful festivals like Diwali and Holi."
+        },
+        "greetings": [
+            "The traditional greeting is 'Namaste' — joining both palms together with a slight bow. In southern states, people may say 'Vanakkam' or 'Namaskaram.'",
+            "Handshakes are common in professional or urban settings, though elders are often greeted with respectful gestures (such as touching feet).",
+            "Titles and honorifics like 'Ji,' 'Sir,' 'Madam,' 'Uncle,' or 'Aunty' are widely used to show respect.",
+            "Communication can be indirect — people often avoid saying 'no' directly to maintain politeness.",
+            "Eye contact is acceptable but should be respectful, especially with elders.",
+            "Respectful speech and polite body language are expected in both formal and informal conversations.",
+            "Technology is widely used: WhatsApp, Facebook, and Instagram are popular for daily communication."
+        ],
+        "academic": [
+            "Education is highly valued, and India is home to prestigious institutions like IITs, IIMs, and AIIMS.",
+            "Teachers are respected as 'Gurus,' and students are expected to show discipline in classrooms.",
+            "Examinations and grades are given high importance; competition can be intense.",
+            "Rote learning is common at school level, but higher education emphasizes research and critical thinking.",
+            "Assignments, group projects, and presentations are integral in universities.",
+            "Grading system varies — percentages are common, though some universities use GPA.",
+            "Campus life includes debates, cultural festivals, sports events, and student organizations."
+        ],
+        "dailyLife": [
+            "Family life plays a central role; many households are joint families, though nuclear families are also common.",
+            "Hospitality is highly valued: guests are treated with respect, often with the phrase 'Atithi Devo Bhava' (Guest is God).",
+            "Shoes are removed before entering homes and temples.",
+            "Meals are often eaten with the right hand; the left hand is considered unclean.",
+            "Public transport (buses, autos, trains, and metros) is part of daily life, especially in cities.",
+            "Punctuality is appreciated but not always strictly observed.",
+            "Modest dressing is encouraged, especially in rural and religious areas."
+        ],
+        "festival": [
+            {
+                "title": "Diwali (Festival of Lights)",
+                "description": "The biggest Hindu festival, celebrated with lamps, fireworks, sweets, and prayers for prosperity."
+            },
+            {
+                "title": "Holi (Festival of Colors)",
+                "description": "A spring festival marked by throwing colored powders, dancing, and festive foods."
+            },
+            {
+                "title": "Eid-ul-Fitr & Eid-ul-Adha",
+                "description": "Important Muslim festivals celebrated with prayers, charity, and feasts."
+            },
+            {
+                "title": "Christmas (December 25)",
+                "description": "Celebrated across India with church services, carols, and decorations, especially in Kerala and Goa."
+            },
+            {
+                "title": "Navratri & Durga Puja",
+                "description": "Nine nights of dance, prayers, and cultural events, celebrated especially in Gujarat and West Bengal."
+            },
+            {
+                "title": "Onam (Kerala) & Pongal (Tamil Nadu)",
+                "description": "Regional harvest festivals with traditional dances, feasts, and community gatherings."
+            },
+            {
+                "title": "Independence Day (August 15) & Republic Day (January 26)",
+                "description": "National celebrations with parades, flag-hoisting, and cultural programs."
+            }
+        ],
+        "lifestyle": [
+            {
+                "title": "Housing",
+                "description": "Urban housing includes apartments, hostels, and rented flats, while rural areas feature traditional homes. Student hostels are common near universities."
+            },
+            {
+                "title": "Food habits",
+                "description": "India’s cuisine is diverse — from North Indian curries and breads to South Indian rice dishes and dosas. Vegetarianism is widespread. Street food like chaat, samosas, and vada pav are very popular."
+            },
+            {
+                "title": "Work-life balance",
+                "description": "Students may work part-time, but academics are usually prioritized. Urban lifestyles can be fast-paced, while rural life remains community-based."
+            },
+            {
+                "title": "Shopping",
+                "description": "Bazaars and street markets are vibrant, with bargaining being common. Modern malls and e-commerce (Amazon, Flipkart) are equally popular."
+            },
+            {
+                "title": "Health & wellness",
+                "description": "Ayurveda, yoga, and meditation are part of Indian lifestyle, alongside modern healthcare."
+            },
+            {
+                "title": "Transportation",
+                "description": "India has one of the largest railway networks in the world. Autos, buses, and metros are widely used in cities."
+            }
+        ],
+        "socialConnections": [
+            "Family and community relationships are central to Indian social life.",
+            "Friendships are expressive — people often share food, help each other, and meet frequently.",
+            "Socializing revolves around festivals, weddings, and religious gatherings.",
+            "Dating is growing among the youth, but arranged marriages remain common.",
+            "Respect for elders is an important cultural value.",
+            "India is multi-religious and multicultural, home to Hindus, Muslims, Sikhs, Christians, Buddhists, and Jains.",
+            "Hospitality is warm — offering tea, snacks, or meals to guests is a norm."
+        ],
+        "practicalInformation": [
+            {
+                "title": "Currency",
+                "description": "Indian Rupee (INR ₹). Coins range from ₹1 to ₹10; notes include denominations up to ₹2000."
+            },
+            {
+                "title": "Transport",
+                "description": "Public transport is affordable but crowded. Ride-hailing apps like Ola and Uber are widely used in cities."
+            },
+            {
+                "title": "Banking",
+                "description": "UPI-based digital payments (Paytm, Google Pay, PhonePe) are extremely popular. ATMs and banks are easily accessible."
+            },
+            {
+                "title": "Healthcare",
+                "description": "India has both public and private healthcare. Private hospitals offer faster service but at higher cost."
+            },
+            {
+                "title": "Emergency numbers",
+                "description": "Dial 112 for emergencies, 100 for police, 102/108 for ambulance, and 101 for fire."
+            },
+            {
+                "title": "Mobile/Internet",
+                "description": "Affordable data plans — India has some of the cheapest mobile internet rates globally. Jio, Airtel, and Vi are leading providers."
+            },
+            {
+                "title": "Weather advice",
+                "description": "Carry light clothes in summer, umbrellas/raincoats in monsoon, and warm clothing in northern winters."
+            }
+        ],
+        "dos": [
+            "Greet people with 'Namaste' or respectful titles.",
+            "Dress modestly in rural or religious places.",
+            "Respect elders, teachers, and cultural traditions.",
+            "Try local cuisines and show interest in Indian culture.",
+            "Use the right hand for eating and giving/receiving items.",
+            "Be patient with crowds and traffic in busy cities."
+        ],
+        "donts": [
+            "Don’t show excessive public affection in conservative areas.",
+            "Don’t disrespect religious customs, idols, or holy places.",
+            "Don’t eat beef in many regions — it is taboo for Hindus.",
+            "Don’t use the left hand for meals or handshakes.",
+            "Don’t point feet at people or sacred objects.",
+            "Don’t assume all Indians speak the same language or follow the same culture."
+        ]
+    },
+    {
+        "name": "Japan",
+        "about": {
+            "description": "Japan, officially known as Nippon or Nihon, is an island nation in East Asia. It consists of four main islands (Honshu, Hokkaido, Kyushu, and Shikoku) and thousands of smaller islands. It is famous for its unique combination of ancient traditions and modern technology. The capital city is Tokyo, one of the world’s largest and most advanced cities. Japan is globally recognized for its culture, discipline, innovation, and beautiful landscapes, from Mount Fuji to cherry blossoms.",
+            "Languages": "Japanese is the official language. English is taught in schools and used in tourism, but fluency varies. Regional dialects (Kansai-ben, Tohoku-ben, etc.) are common.",
+            "Population": "About 125 million people, with a very high population density in urban areas. Japan is also known for having one of the oldest populations in the world.",
+            "Climate": "Japan has four distinct seasons: spring (mild, cherry blossoms), summer (hot, humid, typhoon season), autumn (pleasant with colorful leaves), and winter (cold, snowy in the north, mild in the south).",
+            "Government": "Constitutional monarchy with an Emperor as the ceremonial head of state and a Prime Minister as the head of government.",
+            "Currency": "Japanese Yen (¥ JPY).",
+            "Famous": "Samurai and geisha culture, cherry blossoms, sushi, anime, manga, Shinkansen (bullet trains), Mount Fuji, tea ceremonies, technological innovation, video games, and traditional arts like origami and calligraphy."
+        },
+        "greetings": [
+            "The traditional form of greeting is a bow, which can vary in depth depending on respect shown.",
+            "Common greetings include 'Konnichiwa' (Hello), 'Ohayō gozaimasu' (Good morning), and 'Konbanwa' (Good evening).",
+            "Handshakes are used in business or with foreigners, but bowing remains the standard.",
+            "Politeness levels in Japanese language change based on social hierarchy and relationship.",
+            "People address each other with suffixes like '-san,' '-kun,' '-chan,' or '-sensei' to show respect.",
+            "Direct eye contact is limited; showing humility and respect is more valued.",
+            "Exchanging business cards (meishi) with both hands is an important professional greeting custom."
+        ],
+        "academic": [
+            "Education is highly structured, disciplined, and competitive. Schools emphasize both academics and moral education.",
+            "Students wear uniforms (gakusei fuku) and participate in cleaning classrooms as part of character building.",
+            "Examinations play a central role; high school and university entrance exams are especially rigorous.",
+            "Teachers are deeply respected; punctuality, obedience, and effort are strongly emphasized.",
+            "Group activities such as sports clubs, cultural clubs, and art societies are considered essential to student life.",
+            "University life is relatively relaxed compared to school, with more focus on research, part-time jobs, and extracurriculars.",
+            "Grading systems often use percentages or GPA in higher education."
+        ],
+        "dailyLife": [
+            "Punctuality is a core value — arriving late is considered very rude.",
+            "Cleanliness and order are part of everyday life. People often carry small towels or handkerchiefs.",
+            "Shoes are removed before entering homes, temples, traditional inns, and sometimes schools.",
+            "Daily meals are often eaten with chopsticks; proper etiquette (not pointing or sticking chopsticks upright) is very important.",
+            "Public behavior is quiet and respectful. Talking loudly on trains is discouraged.",
+            "Bento (lunch boxes) are common in schools and workplaces.",
+            "Technology is deeply integrated — vending machines, bullet trains, and high-speed internet are part of daily life."
+        ],
+        "festival": [
+            {
+                "title": "Hanami (Cherry Blossom Festival)",
+                "description": "Celebrated in spring when cherry blossoms bloom. Families and friends gather under trees for picnics and celebrations."
+            },
+            {
+                "title": "New Year (Shogatsu)",
+                "description": "The most important holiday, celebrated with family gatherings, temple visits, special foods (osechi ryori), and rituals to welcome good fortune."
+            },
+            {
+                "title": "Obon",
+                "description": "A Buddhist festival honoring ancestors. Families visit graves, light lanterns, and participate in Bon Odori dances."
+            },
+            {
+                "title": "Tanabata (Star Festival)",
+                "description": "Celebrated in July, people write wishes on colorful paper strips and hang them on bamboo branches."
+            },
+            {
+                "title": "Gion Matsuri (Kyoto)",
+                "description": "One of Japan’s biggest festivals, featuring processions of floats, traditional performances, and cultural displays."
+            },
+            {
+                "title": "Children’s Day (Kodomo no Hi)",
+                "description": "Families raise carp-shaped koinobori flags to symbolize strength and celebrate children’s health and happiness."
+            }
+        ],
+        "lifestyle": [
+            {
+                "title": "Housing",
+                "description": "Homes are compact due to limited space. Tatami rooms, sliding doors, and futons are traditional features. Apartments dominate in cities."
+            },
+            {
+                "title": "Food habits",
+                "description": "Japanese cuisine emphasizes rice, fish, noodles, and seasonal ingredients. Sushi, ramen, tempura, and miso soup are staples. Eating is mindful and portion sizes are small."
+            },
+            {
+                "title": "Work-life balance",
+                "description": "Japanese work culture is known for long hours and dedication. However, recent reforms encourage better balance and mental well-being."
+            },
+            {
+                "title": "Shopping",
+                "description": "Convenience stores (konbini) are central to daily life, offering everything from meals to bills payment. Traditional street markets coexist with modern malls."
+            },
+            {
+                "title": "Health & wellness",
+                "description": "Japan has one of the highest life expectancies due to healthy diets, active lifestyles, and universal healthcare."
+            },
+            {
+                "title": "Transportation",
+                "description": "Public transport is punctual, efficient, and clean. Bullet trains (Shinkansen) connect major cities at speeds up to 320 km/h."
+            }
+        ],
+        "socialConnections": [
+            "Family ties remain important, though many young people live independently in cities.",
+            "Respect for elders is deeply ingrained in social and family life.",
+            "Friendships are often formed in school, university, and workplace settings, with group harmony prioritized.",
+            "Dating is private, and public displays of affection are limited. Marriage and family responsibilities remain culturally significant.",
+            "Social etiquette emphasizes not disturbing others — quietness is valued in public spaces.",
+            "Seasonal gatherings, company outings (enkai), and tea ceremonies strengthen community bonds."
+        ],
+        "practicalInformation": [
+            {
+                "title": "Currency",
+                "description": "Japanese Yen (¥ JPY). Notes are available in denominations of 1,000, 5,000, and 10,000 yen."
+            },
+            {
+                "title": "Transport",
+                "description": "IC cards like Suica and Pasmo are widely used for trains and buses. Taxis are expensive but very safe."
+            },
+            {
+                "title": "Banking",
+                "description": "Japan has modern ATMs and cashless options, but cash is still widely used in daily transactions."
+            },
+            {
+                "title": "Healthcare",
+                "description": "Japan offers universal healthcare with affordable medical costs and high-quality services."
+            },
+            {
+                "title": "Emergency numbers",
+                "description": "Dial 110 for police, 119 for fire and ambulance services."
+            },
+            {
+                "title": "Mobile/Internet",
+                "description": "Japan has high-speed internet and extensive 5G coverage. Free Wi-Fi is available in many public places."
+            },
+            {
+                "title": "Weather advice",
+                "description": "Carry an umbrella during the rainy season (June–July). Winters in the north are snowy, requiring warm clothing."
+            }
+        ],
+        "dos": [
+            "Bow politely when greeting or thanking someone.",
+            "Use both hands when giving or receiving items (e.g., gifts, business cards).",
+            "Remove shoes before entering homes, temples, and some restaurants.",
+            "Be punctual — whether for social or professional meetings.",
+            "Respect cultural customs and speak softly in public spaces.",
+            "Try traditional foods and local customs with enthusiasm."
+        ],
+        "donts": [
+            "Don’t speak loudly on trains or in public.",
+            "Don’t tip in restaurants or taxis — it can be considered rude.",
+            "Don’t stick chopsticks upright in rice (it resembles funeral rituals).",
+            "Don’t walk while eating or drinking in traditional settings.",
+            "Don’t point directly at people or objects with your finger or chopsticks.",
+            "Don’t ignore recycling rules — waste separation is strict."
+        ]
+    },
+    {
+        "name": "Germany",
+        "about": {
+            "description": "Germany, officially the Federal Republic of Germany, is located in Central Europe. It is the largest economy in Europe and a leader in engineering, technology, and innovation. Berlin is the capital, while Munich, Frankfurt, and Hamburg are major hubs for culture, business, and education. The country is known for its history, castles, beer culture, and strong academic reputation.",
+            "Languages": "German (official). English is widely spoken, especially among the younger generation and in business settings.",
+            "Population": "About 84 million people. Germany is a multicultural society with significant Turkish, Polish, Syrian, and other immigrant communities.",
+            "Climate": "Temperate seasonal climate with cold winters (0–5°C) and mild summers (20–30°C). Rain is common throughout the year.",
+            "Government": "A federal parliamentary republic. The Chancellor is the head of government, and the Federal President is the head of state.",
+            "Currency": "Euro (€ EUR).",
+            "Famous": "Engineering (cars like BMW, Mercedes, Volkswagen), Oktoberfest, Christmas markets, bread and sausages, Beethoven and Bach, football (soccer), and rich historical heritage."
+        },
+        "greetings": [
+            "The most common greeting is a firm handshake with eye contact.",
+            "A casual 'Hallo' or 'Guten Tag' (Good day) is polite; 'Moin' is common in the north.",
+            "In formal settings, titles like 'Herr' (Mr.) or 'Frau' (Mrs./Ms.) with last names are used.",
+            "Direct communication is valued — Germans are straightforward but not rude.",
+            "In social settings, a friendly nod or wave is common; hugs are reserved for close friends.",
+            "Punctuality is crucial — being even a few minutes late can be seen as disrespectful."
+        ],
+        "academic": [
+            "Germany is known for its strong higher education system, especially in engineering, medicine, and research.",
+            "Many universities have little or no tuition fees, especially for public institutions.",
+            "Classes can be lecture-based with large groups, requiring independent study.",
+            "Professors are addressed formally with their academic titles.",
+            "Grading is strict, and exams often determine most of the final grade.",
+            "Group projects, research, and presentations are part of academic culture.",
+            "Academic freedom is emphasized — students are expected to manage their own schedules and workload."
+        ],
+        "dailyLife": [
+            "Public transport is highly reliable, including buses, trams, and trains.",
+            "Bicycles are a common mode of transport in many cities like Berlin and Munich.",
+            "Shops typically close by 8 pm on weekdays and remain closed on Sundays, except at train stations.",
+            "People separate household waste carefully (recycling is very important).",
+            "Meals follow a structure: light breakfast, heavier lunch, and lighter dinner.",
+            "Punctuality is highly valued in both personal and professional life.",
+            "Respect for personal space is important — Germans prefer less physical contact compared to some cultures."
+        ],
+        "festival": [
+            {
+                "title": "Oktoberfest",
+                "description": "The world’s largest beer festival held in Munich, celebrated with traditional Bavarian dress, music, and food."
+            },
+            {
+                "title": "Christmas Markets (Weihnachtsmärkte)",
+                "description": "Famous festive markets held across cities in December, featuring crafts, mulled wine (Glühwein), and decorations."
+            },
+            {
+                "title": "Karneval/Fasching",
+                "description": "Colorful parades, costumes, and street celebrations before Lent, especially in Cologne and Düsseldorf."
+            },
+            {
+                "title": "Unity Day (Tag der Deutschen Einheit)",
+                "description": "National holiday on October 3rd celebrating the reunification of East and West Germany."
+            },
+            {
+                "title": "Easter",
+                "description": "Celebrated with egg hunts, decorated eggs, and family gatherings."
+            },
+            {
+                "title": "Harvest Festival (Erntedankfest)",
+                "description": "Thanksgiving-style celebration of harvest with parades and church services."
+            }
+        ],
+        "lifestyle": [
+            {
+                "title": "Housing",
+                "description": "Students and young professionals often live in shared flats (Wohngemeinschaft or WG). Apartments are common in urban areas."
+            },
+            {
+                "title": "Food habits",
+                "description": "Germany is famous for bread, sausages, potatoes, and beer. Regional dishes vary — pretzels and Weißwurst in Bavaria, rye bread in the north."
+            },
+            {
+                "title": "Work-life balance",
+                "description": "Work culture is disciplined, with clear boundaries between work and private life. Vacations and holidays are highly respected."
+            },
+            {
+                "title": "Shopping",
+                "description": "Supermarkets like Aldi, Lidl, and Edeka are popular. Cash is still widely used, though cards are becoming more common."
+            },
+            {
+                "title": "Health & wellness",
+                "description": "Germany has one of the best healthcare systems in the world, with mandatory health insurance for residents."
+            },
+            {
+                "title": "Transportation",
+                "description": "Germany has an extensive railway system (Deutsche Bahn) and is famous for the Autobahn highways with no speed limit on some sections."
+            }
+        ],
+        "socialConnections": [
+            "Friendships develop gradually but are long-lasting and reliable.",
+            "Socializing often happens in cafés, bars, football clubs, or outdoor activities.",
+            "Family ties are important, but young people move out earlier compared to some cultures.",
+            "Dating culture is open but respectful — equality is valued in relationships.",
+            "Community organizations, volunteer groups, and sports clubs are central to social life.",
+            "Privacy is highly valued — unannounced visits are uncommon."
+        ],
+        "practicalInformation": [
+            {
+                "title": "Currency",
+                "description": "Euro (€ EUR). Cash is widely used, so always carry some."
+            },
+            {
+                "title": "Transport",
+                "description": "Excellent public transport system with trams, buses, U-Bahn (subway), S-Bahn (commuter trains), and Deutsche Bahn."
+            },
+            {
+                "title": "Banking",
+                "description": "ATMs are widely available. Debit cards are common; credit card acceptance is improving but not universal."
+            },
+            {
+                "title": "Healthcare",
+                "description": "High-quality healthcare system with universal coverage through public or private insurance."
+            },
+            {
+                "title": "Emergency numbers",
+                "description": "112 for emergencies (police, ambulance, fire)."
+            },
+            {
+                "title": "Mobile/Internet",
+                "description": "Mobile operators include Telekom, Vodafone, and O2. Wi-Fi is available but sometimes limited in public areas."
+            },
+            {
+                "title": "Weather advice",
+                "description": "Pack warm clothes for winter, light clothes for summer, and rain gear year-round."
+            }
+        ],
+        "dos": [
+            "Be punctual — always arrive on time.",
+            "Greet people with a firm handshake and eye contact.",
+            "Recycle waste properly and respect environmental rules.",
+            "Use polite formal address ('Sie') with strangers and elders.",
+            "Respect quiet hours in residential areas (Ruhezeit).",
+            "Try German cuisine and beer — it’s part of social culture."
+        ],
+        "donts": [
+            "Don’t be late for meetings or appointments.",
+            "Don’t jaywalk — crossing streets improperly can result in fines.",
+            "Don’t address people by first name unless invited to do so.",
+            "Don’t make excessive noise in public or residential areas.",
+            "Don’t assume all Germans wear traditional Bavarian attire (like Lederhosen) — that’s regional.",
+            "Don’t ignore recycling rules — waste separation is strictly enforced."
+        ]
+    },
+    {
+        "name": "Australia",
+        "about": {
+            "description": "Australia, officially the Commonwealth of Australia, is the world’s sixth-largest country by area, located in the Southern Hemisphere between the Indian and Pacific Oceans. It consists of the mainland, Tasmania, and several smaller islands. The nation is famous for its unique biodiversity, multicultural society, and high standard of living. The capital city is Canberra, while Sydney, Melbourne, Brisbane, and Perth are major metropolitan hubs.",
+            "Languages": "English is the official and dominant language. Australian English has its own accent, slang, and expressions. Indigenous Australian languages (such as Pitjantjatjara, Yolŋu Matha) are spoken in some communities.",
+            "Population": "About 26 million people. Australia is a multicultural nation with significant immigrant communities from the UK, China, India, Italy, Greece, and Southeast Asia.",
+            "Climate": "Varies by region: tropical in the north, desert in the center, and temperate in the south. Summers (December–February) are hot, while winters (June–August) are mild in most regions. Coastal cities enjoy pleasant weather year-round.",
+            "Government": "A federal parliamentary constitutional monarchy. The British monarch is the head of state, represented by the Governor-General, while the Prime Minister is the head of government.",
+            "Currency": "Australian Dollar (AUD $).",
+            "Famous": "The Great Barrier Reef, Sydney Opera House, Uluru (Ayers Rock), kangaroos, koalas, Aboriginal culture, cricket, surfing, and unique wildlife like platypus and emus."
+        },
+        "greetings": [
+            "Australians are friendly and informal — greetings are often casual, such as 'G’day,' 'Hello,' or 'Hi.'",
+            "A handshake is the standard form of greeting in professional or formal settings.",
+            "First names are quickly used, even in workplaces, reflecting the informal culture.",
+            "Slang is very common — phrases like 'How’s it going?' or 'Cheers' are often used.",
+            "Respectful eye contact is valued, but body language is relaxed.",
+            "Physical greetings like hugs are common among friends, while cheek-kissing is less common than in Europe."
+        ],
+        "academic": [
+            "Australia has world-renowned universities such as the University of Sydney, University of Melbourne, and Australian National University.",
+            "Classrooms encourage interaction, questioning, and independent thinking rather than rote memorization.",
+            "Assignments, essays, and group projects play an important role, with plagiarism taken very seriously.",
+            "International students form a large part of the student population and campuses are highly diverse.",
+            "Teachers are approachable and often addressed by first name.",
+            "Grading system commonly uses High Distinction (HD), Distinction (D), Credit (C), Pass (P), and Fail (F).",
+            "Extracurricular activities like sports, student clubs, and volunteering are an integral part of campus life."
+        ],
+        "dailyLife": [
+            "Australians enjoy an outdoor lifestyle with activities like barbecues, beach outings, and sports.",
+            "Work-life balance is important — leisure and family time are highly valued.",
+            "Public transport is efficient in major cities (trains, buses, trams), but car ownership is common.",
+            "Australians are casual dressers, except in formal workplaces or events.",
+            "Most shops and restaurants close early compared to some other countries, though cities like Sydney and Melbourne have vibrant nightlife.",
+            "Coffee culture is strong — cafés are central to social life, especially in Melbourne.",
+            "Weekends are often spent at the beach, hiking, or watching sports."
+        ],
+        "festival": [
+            {
+                "title": "Australia Day (January 26)",
+                "description": "National holiday marking the arrival of the First Fleet in 1788, celebrated with parades, fireworks, and community events."
+            },
+            {
+                "title": "Anzac Day (April 25)",
+                "description": "Honors Australian and New Zealand soldiers who served in wars, especially during World War I. Dawn services and marches are held."
+            },
+            {
+                "title": "Christmas",
+                "description": "Celebrated in summer with barbecues, beach gatherings, and festive decorations."
+            },
+            {
+                "title": "Easter",
+                "description": "Observed with church services, chocolate eggs, and family meals."
+            },
+            {
+                "title": "NAIDOC Week",
+                "description": "Celebrates the history, culture, and achievements of Aboriginal and Torres Strait Islander peoples."
+            },
+            {
+                "title": "New Year’s Eve",
+                "description": "Sydney’s Harbour fireworks are among the most famous celebrations globally."
+            },
+            {
+                "title": "Melbourne Cup (First Tuesday in November)",
+                "description": "A major horse-racing event known as 'the race that stops the nation.'"
+            }
+        ],
+        "lifestyle": [
+            {
+                "title": "Housing",
+                "description": "Urban housing includes apartments, shared flats, and suburban homes. Student accommodations and homestays are common for international students."
+            },
+            {
+                "title": "Food habits",
+                "description": "Australian cuisine is multicultural — from traditional 'meat pies' and 'fish and chips' to Asian and Mediterranean influences. Barbecues are very popular, and vegemite is a national icon."
+            },
+            {
+                "title": "Work-life balance",
+                "description": "Work hours are generally 9-to-5, and annual leave is respected. Australians value leisure time, sports, and family gatherings."
+            },
+            {
+                "title": "Shopping",
+                "description": "Supermarkets like Woolworths and Coles dominate, while weekend farmers’ markets are popular for fresh produce."
+            },
+            {
+                "title": "Health & wellness",
+                "description": "Australia has a universal healthcare system (Medicare), and people are health-conscious, often engaging in fitness and outdoor sports."
+            },
+            {
+                "title": "Transportation",
+                "description": "Public transport is reliable in major cities, but distances between cities are vast, making domestic flights common."
+            }
+        ],
+        "socialConnections": [
+            "Friendships are casual and based on equality; people usually call each other by first names.",
+            "Socializing often happens in pubs, cafés, beaches, or sporting events.",
+            "Australians enjoy humor and light-hearted conversation, often with sarcasm or slang.",
+            "Family life is important but independent living is common among young adults.",
+            "Dating is casual, with both men and women having equal say in relationships.",
+            "Community and sports clubs are important for building social networks."
+        ],
+        "practicalInformation": [
+            {
+                "title": "Currency",
+                "description": "Australian Dollar (AUD $). Coins include 5c, 10c, 20c, 50c, $1, and $2; notes range from $5 to $100."
+            },
+            {
+                "title": "Transport",
+                "description": "Myki (Melbourne) and Opal (Sydney) cards are used for buses, trains, and trams. Long distances between cities often require flights."
+            },
+            {
+                "title": "Banking",
+                "description": "Commonwealth Bank, Westpac, NAB, and ANZ are major banks. Contactless payments are widely used."
+            },
+            {
+                "title": "Healthcare",
+                "description": "Medicare provides universal healthcare. Private insurance is also available for additional benefits."
+            },
+            {
+                "title": "Emergency numbers",
+                "description": "Dial 000 for police, fire, and ambulance services."
+            },
+            {
+                "title": "Mobile/Internet",
+                "description": "Telstra, Optus, and Vodafone are major providers. Internet is widely available but can be slower in rural areas."
+            },
+            {
+                "title": "Weather advice",
+                "description": "Summers can be very hot, so sunscreen, hats, and hydration are essential. In southern cities, winters are mild but require warm clothing."
+            }
+        ],
+        "dos": [
+            "Be friendly and use first names when addressing people.",
+            "Respect Indigenous culture and traditions.",
+            "Wear sunscreen and stay hydrated when outdoors.",
+            "Participate in barbecues and outdoor gatherings — it’s a key part of social life.",
+            "Follow road safety rules, including wearing seat belts.",
+            "Recycle and respect the environment — Australians are eco-conscious."
+        ],
+        "donts": [
+            "Don’t mock or disrespect Aboriginal and Torres Strait Islander culture.",
+            "Don’t litter — environmental respect is taken seriously.",
+            "Don’t cut in line (queue jumping is considered rude).",
+            "Don’t be overly formal — Australians prefer a relaxed and casual approach.",
+            "Don’t drink and drive — laws are very strict with severe penalties.",
+            "Don’t assume all Australians live near the beach or in the outback — most live in cities."
+        ]
+    },
+    {
+        "name": "Russia",
+        "about": {
+            "description": "Russia, officially the Russian Federation, is the largest country in the world by land area, spanning Eastern Europe and Northern Asia. It borders more than a dozen countries and stretches across 11 time zones. Moscow is the capital and largest city, while Saint Petersburg is the cultural capital. Russia is known for its vast landscapes, rich history, strong traditions, and contributions to literature, science, space exploration, and classical arts.",
+            "Languages": "Russian (official) is the primary language, but there are more than 100 minority languages spoken, including Tatar, Chechen, and Bashkir. English is taught in schools but is less widely spoken outside major cities.",
+            "Population": "Approximately 145 million people, making it the most populous country in Europe.",
+            "Climate": "Russia has a predominantly continental climate: long, harsh winters and short, warm summers. Siberia experiences some of the coldest inhabited places on Earth. The southern regions enjoy milder winters.",
+            "Government": "Federal semi-presidential republic with a President as head of state and Prime Minister as head of government.",
+            "Currency": "Russian Ruble (RUB ₽).",
+            "Famous": "Ballet, literature (Tolstoy, Dostoevsky, Pushkin), vodka, Matryoshka dolls, Russian Orthodox churches with onion domes, the Trans-Siberian Railway, space exploration (Yuri Gagarin), and the Kremlin."
+        },
+        "greetings": [
+            "A firm handshake is the most common greeting between men, often accompanied by direct eye contact.",
+            "Close friends and family greet with hugs or kisses on the cheeks (usually three times, alternating sides).",
+            "Titles and patronymics are used formally — addressing someone with their first name plus their father’s name (e.g., Ivan Petrovich).",
+            "Smiling at strangers is uncommon and may be seen as insincere. Smiles are reserved for genuine emotions.",
+            "Hospitality is important — guests are greeted warmly and offered food and drinks immediately.",
+            "When entering someone’s home, it is customary to remove shoes and often wear provided slippers."
+        ],
+        "academic": [
+            "Education is free and compulsory until age 15. Russia has a high literacy rate (99%).",
+            "Universities are prestigious, with Moscow State University and Saint Petersburg State University being globally renowned.",
+            "STEM fields, literature, and the arts are emphasized heavily in Russian education.",
+            "Exams and entrance tests are highly competitive, especially for state universities.",
+            "Teachers are respected, and discipline is strict in classrooms.",
+            "Higher education includes research and strong theoretical learning.",
+            "Extracurricular activities like chess, music, and sports are popular among students."
+        ],
+        "dailyLife": [
+            "Family is central in daily life — grandparents often live with younger generations.",
+            "Hospitality is a cultural norm: visitors are offered tea, snacks, and meals.",
+            "Shoes are removed at the door; indoor slippers are common.",
+            "Public transportation (metro, buses, trams) is widely used, especially in big cities like Moscow and Saint Petersburg.",
+            "Punctuality is valued for formal and business settings but can be more relaxed in social life.",
+            "Meals are hearty — soups, bread, and potatoes are common staples.",
+            "Alcohol, especially vodka, often plays a role in celebrations and social gatherings."
+        ],
+        "festival": [
+            {
+                "title": "New Year (Novy God)",
+                "description": "The most important holiday in Russia, celebrated with decorated trees, family dinners, fireworks, and gifts from Ded Moroz (Grandfather Frost)."
+            },
+            {
+                "title": "Orthodox Christmas (January 7)",
+                "description": "Celebrated by the Russian Orthodox Church with religious services, fasting, and family gatherings."
+            },
+            {
+                "title": "Maslenitsa (Butter Week)",
+                "description": "A week-long festival marking the end of winter with pancakes (blini), music, and folk dances."
+            },
+            {
+                "title": "Victory Day (May 9)",
+                "description": "Commemorates the end of World War II with military parades, fireworks, and honoring veterans."
+            },
+            {
+                "title": "International Women’s Day (March 8)",
+                "description": "A widely celebrated holiday where women receive flowers, gifts, and respect."
+            },
+            {
+                "title": "Easter (Paskha)",
+                "description": "Marked by church services, painted eggs, and special foods like kulich (Easter bread)."
+            }
+        ],
+        "lifestyle": [
+            {
+                "title": "Housing",
+                "description": "Many Russians live in apartment blocks (often Soviet-era buildings) in cities, while countryside areas have traditional wooden houses (dachas)."
+            },
+            {
+                "title": "Food habits",
+                "description": "Meals include soups (borscht, shchi), dumplings (pelmeni), buckwheat, bread, and tea. Pickled vegetables and smoked fish are also staples."
+            },
+            {
+                "title": "Work-life balance",
+                "description": "Work culture can be intense, especially in urban areas. However, family and leisure are valued, and vacations are taken seriously."
+            },
+            {
+                "title": "Shopping",
+                "description": "Large supermarkets and shopping malls are popular. Outdoor markets still thrive in smaller towns and rural areas."
+            },
+            {
+                "title": "Health & wellness",
+                "description": "Saunas (banya) are an important part of Russian lifestyle and wellness traditions."
+            },
+            {
+                "title": "Transportation",
+                "description": "Russia has an extensive railway network, including the famous Trans-Siberian Railway. Metro systems in Moscow and Saint Petersburg are efficient and beautifully decorated."
+            }
+        ],
+        "socialConnections": [
+            "Family bonds are strong — multiple generations often live together or stay closely connected.",
+            "Friendship circles are smaller but very close and loyal.",
+            "Social gatherings often involve shared meals, tea, or drinks.",
+            "Community life is active in villages, where neighbors often help each other.",
+            "Respect for elders is deeply ingrained in social culture.",
+            "Celebrations are vibrant, with music, dancing, and toasts as central parts of gatherings."
+        ],
+        "practicalInformation": [
+            {
+                "title": "Currency",
+                "description": "Russian Ruble (RUB ₽). Banknotes include denominations up to 5000 rubles."
+            },
+            {
+                "title": "Transport",
+                "description": "Affordable and widespread public transport, with metro, buses, and long-distance trains. Domestic flights are common due to the vast size of the country."
+            },
+            {
+                "title": "Banking",
+                "description": "Credit and debit cards are widely used in cities. Cash is still common in rural areas."
+            },
+            {
+                "title": "Healthcare",
+                "description": "Public healthcare is available, but many prefer private clinics for faster service and higher quality."
+            },
+            {
+                "title": "Emergency numbers",
+                "description": "Dial 112 for all emergencies, 101 for fire, 102 for police, and 103 for ambulance."
+            },
+            {
+                "title": "Mobile/Internet",
+                "description": "High-speed mobile internet is widely available, with providers like MTS, Beeline, and Megafon."
+            },
+            {
+                "title": "Weather advice",
+                "description": "Warm clothing is essential for winter. Summers can be hot in some regions, so lighter clothes are necessary."
+            }
+        ],
+        "dos": [
+            "Do bring a gift (flowers, chocolates, or wine) when visiting someone’s home.",
+            "Do respect elders and use formal address with titles and patronymics.",
+            "Do accept food and drinks offered by hosts — refusing may be considered impolite.",
+            "Do dress warmly in winter — layers are important.",
+            "Do show appreciation for Russian culture, literature, and history."
+        ],
+        "donts": [
+            "Don’t shake hands across a doorway — it’s considered bad luck.",
+            "Don’t whistle indoors — it’s believed to bring financial misfortune.",
+            "Don’t refuse a toast during social gatherings.",
+            "Don’t smile at strangers unnecessarily; it may be perceived as superficial.",
+            "Don’t sit on the corner of a table — it’s considered bad luck, especially for young people."
+        ]
+    },
+    {
+        "name": "USA",
+        "about": {
+            "description": "The United States of America (USA) is a federal republic consisting of 50 states, a federal district (Washington, D.C.), and several territories. It is geographically diverse, spanning from the Atlantic Ocean in the east to the Pacific Ocean in the west, and includes Alaska in the northwest and Hawaii in the Pacific. The USA is the world’s third-largest country by area and population, known as a global superpower with influence in politics, economics, technology, culture, and defense.",
+            "Languages": "English is the de facto national language, while Spanish is the second most spoken. The USA is highly multicultural with over 350 languages spoken at home, including Chinese, Tagalog, Vietnamese, French, and Arabic.",
+            "Population": "Over 333 million people (2025 est.), making it the third most populous country in the world. It is ethnically and culturally diverse due to centuries of immigration.",
+            "Climate": "The USA has varied climates: tropical in Hawaii and Florida, arid deserts in the southwest, Mediterranean in California, temperate in the Midwest, humid subtropical in the South, and Arctic in Alaska. Natural disasters such as hurricanes, tornadoes, and wildfires are part of the climate reality.",
+            "Government": "Federal presidential constitutional republic with separation of powers between executive, legislative, and judicial branches.",
+            "Currency": "United States Dollar (USD $).",
+            "Famous": "Hollywood movies, Silicon Valley technology, jazz and rock music, fast food, NASA and space exploration, the Statue of Liberty, the Grand Canyon, American football (NFL), NBA basketball, Broadway, and cultural icons like Elvis Presley, Martin Luther King Jr., and Steve Jobs."
+        },
+        "greetings": [
+            "A handshake is the most common greeting in professional and social contexts.",
+            "Hugs are common among friends and family; a light cheek kiss may be exchanged in multicultural or urban areas.",
+            "Smiling is a standard gesture of friendliness and openness.",
+            "First names are used quickly, even in professional settings, reflecting informality.",
+            "Phrases like 'Hi,' 'Hello,' 'How are you?' or 'What’s up?' are casual greetings.",
+            "Politeness markers like 'Please,' 'Thank you,' 'Excuse me,' and 'Sorry' are widely used.",
+            "Digital greetings through text messages, emails, and social media are part of everyday culture."
+        ],
+        "academic": [
+            "Education is compulsory until around age 16, and literacy rates are above 99%.",
+            "Public schools are run by local governments; private schools and homeschooling are also options.",
+            "Higher education is highly valued; the USA is home to Ivy League universities and world-renowned institutions like Harvard, MIT, and Stanford.",
+            "Campus life is vibrant with fraternities, sororities, sports, and student clubs.",
+            "Critical thinking, group projects, class participation, and presentations are emphasized.",
+            "Letter grading system (A–F) and GPA are standard evaluation methods.",
+            "Extracurriculars such as athletics, music, debate, and volunteering are central to student development.",
+            "Sports scholarships (basketball, football, athletics) are pathways to college for many students."
+        ],
+        "dailyLife": [
+            "Most Americans live in nuclear families, though extended families gather during holidays.",
+            "Day-to-day life often involves commuting by car, though public transit is common in large cities like New York, Chicago, and Boston.",
+            "Fast food and dining out are frequent due to busy schedules, though home cooking is also valued.",
+            "Work and school schedules are structured — punctuality is very important.",
+            "Weekends are reserved for leisure, sports, shopping, family outings, and religious activities.",
+            "Fitness culture is strong — gyms, jogging, and sports are common.",
+            "Individualism is valued, but community volunteering and charity are widespread."
+        ],
+        "festival": [
+            {
+                "title": "Independence Day (July 4)",
+                "description": "Celebrates the Declaration of Independence in 1776 with fireworks, parades, barbecues, and patriotic displays."
+            },
+            {
+                "title": "Thanksgiving (Fourth Thursday in November)",
+                "description": "A family holiday marked by a traditional meal of turkey, stuffing, and pies, commemorating the Pilgrims’ first harvest."
+            },
+            {
+                "title": "Christmas (December 25)",
+                "description": "Celebrated nationwide with decorations, gift exchanges, and family gatherings, though traditions vary by community."
+            },
+            {
+                "title": "Halloween (October 31)",
+                "description": "Children and adults dress in costumes, go trick-or-treating, and celebrate with spooky decorations and parties."
+            },
+            {
+                "title": "Martin Luther King Jr. Day (January)",
+                "description": "Honors the civil rights leader with parades, service projects, and educational events."
+            },
+            {
+                "title": "Labor Day & Memorial Day",
+                "description": "Observed with parades, ceremonies, and family barbecues, marking labor achievements and honoring fallen soldiers."
+            },
+            {
+                "title": "Easter & Religious Holidays",
+                "description": "Christians celebrate Easter, while Jewish, Muslim, Hindu, and other religious festivals are widely observed due to America’s diversity."
+            }
+        ],
+        "lifestyle": [
+            {
+                "title": "Housing",
+                "description": "Suburban homes with yards are iconic, though apartments are common in cities. Student dormitories are typical in colleges."
+            },
+            {
+                "title": "Food habits",
+                "description": "The USA has a multicultural cuisine — burgers, pizza, fried chicken, and barbecue are traditional favorites. There is also widespread influence from Mexican, Chinese, Italian, and Indian food."
+            },
+            {
+                "title": "Work-life balance",
+                "description": "Work culture can be intense, with limited vacation compared to other countries. However, leisure activities, travel, and hobbies are highly valued."
+            },
+            {
+                "title": "Shopping",
+                "description": "Shopping malls, big-box retailers (Walmart, Target), and e-commerce (Amazon) dominate. Black Friday and Cyber Monday are major shopping events."
+            },
+            {
+                "title": "Health & wellness",
+                "description": "Health insurance is necessary. Fitness, organic food, and wellness trends like yoga and mindfulness are popular."
+            },
+            {
+                "title": "Transportation",
+                "description": "Cars are the primary mode of transport, but metros, buses, and trains serve urban centers. Air travel is common for long distances."
+            }
+        ],
+        "socialConnections": [
+            "Friendship is often casual but can become deeply loyal.",
+            "Neighbors may greet and interact casually but may not be very close.",
+            "Community engagement through volunteering, local events, and sports is common.",
+            "Dating culture is open, and marriage practices vary widely.",
+            "Respect for personal space and privacy is important.",
+            "Diversity is celebrated — the USA is often described as a 'melting pot' of cultures.",
+            "Social gatherings include barbecues, parties, sporting events, and concerts."
+        ],
+        "practicalInformation": [
+            {
+                "title": "Currency",
+                "description": "United States Dollar (USD $). Coins include 1¢, 5¢, 10¢, 25¢, and notes range from $1 to $100."
+            },
+            {
+                "title": "Transport",
+                "description": "Car culture dominates. Uber, Lyft, Amtrak trains, and Greyhound buses are widely used. Subways in New York, Washington, and Chicago are extensive."
+            },
+            {
+                "title": "Banking",
+                "description": "Credit cards are widely used; digital payments like PayPal, Venmo, and Apple Pay are popular."
+            },
+            {
+                "title": "Healthcare",
+                "description": "Healthcare is private and expensive, usually requiring insurance. Emergency care is available but costly."
+            },
+            {
+                "title": "Emergency numbers",
+                "description": "Dial 911 for all emergencies (police, fire, medical)."
+            },
+            {
+                "title": "Mobile/Internet",
+                "description": "High-speed internet and mobile networks are widely available. Verizon, AT&T, and T-Mobile are major providers."
+            },
+            {
+                "title": "Weather advice",
+                "description": "Pack according to region: heavy coats for northern winters, light clothing for southern summers, and prepare for extreme weather events."
+            }
+        ],
+        "dos": [
+            "Do be punctual — time is highly respected in both social and professional contexts.",
+            "Do use polite language like 'Please,' 'Thank you,' and 'Excuse me.'",
+            "Do respect diversity and different cultural or religious backgrounds.",
+            "Do tip service workers (10–20% in restaurants, taxis, salons).",
+            "Do engage in small talk — sports, weather, and hobbies are common topics.",
+            "Do be respectful of personal space and privacy."
+        ],
+        "donts": [
+            "Don’t cut in lines — queuing is strictly followed.",
+            "Don’t discuss sensitive topics like politics, income, or religion unless you know someone well.",
+            "Don’t smoke in public areas unless designated.",
+            "Don’t assume everyone shares the same cultural background or traditions.",
+            "Don’t ignore tipping in restaurants — it is expected.",
+            "Don’t use offensive language or gestures; they can be taken seriously."
+        ]
+    },
+    {
+        "name": "France",
+        "about": {
+            "description": "France, officially the French Republic, is a country located in Western Europe, bordered by Belgium, Luxembourg, Germany, Switzerland, Italy, Spain, and Andorra, with coastlines on both the Atlantic Ocean and the Mediterranean Sea. Paris, its capital, is one of the world’s most iconic cities, known for art, fashion, and history. France has played a central role in global history, from the French Revolution to being a founding member of the European Union and the United Nations.",
+            "Languages": "The official language is French, though regional languages such as Breton, Occitan, Alsatian, and Corsican are also spoken. English is commonly taught in schools, but French people prefer conversations in their native language.",
+            "Population": "Approximately 67 million people, with a diverse mix of ethnicities and cultures, including large immigrant populations from North and Sub-Saharan Africa.",
+            "Climate": "France has a temperate climate, with mild winters and warm summers. The Mediterranean south enjoys hot, dry summers, while northern and western France have cooler, wetter climates.",
+            "Government": "A unitary semi-presidential republic with a President as Head of State and a Prime Minister as Head of Government.",
+            "Currency": "Euro (€).",
+            "Famous": "Fine dining, wine, cheese, the Eiffel Tower, the Louvre Museum, haute couture fashion, French Riviera, philosophers like Voltaire, and world-famous cuisine."
+        },
+        "greetings": [
+            "The most common greeting is 'Bonjour' (Good day) or 'Bonsoir' (Good evening). Always greet with a polite phrase before asking a question or starting a conversation.",
+            "Handshakes are common in formal and business settings. Among friends and family, people greet with 'la bise' (light kisses on each cheek).",
+            "Titles such as 'Monsieur' (Mr.) and 'Madame' (Mrs.) are widely used to show respect.",
+            "Politeness is crucial — saying 'Merci' (Thank you), 'S’il vous plaît' (Please), and 'Excusez-moi' (Excuse me) is expected in daily interactions.",
+            "Direct eye contact is valued as a sign of confidence and honesty.",
+            "The French prefer indirect but articulate communication, often with a touch of humor and wit."
+        ],
+        "academic": [
+            "Education is highly centralized, with the Ministry of Education setting national standards.",
+            "School is mandatory from age 3 to 16, with a strong emphasis on reading, mathematics, philosophy, and sciences.",
+            "The French grading system uses a 20-point scale (10 is passing, 20 is nearly impossible to achieve).",
+            "Higher education includes prestigious 'Grandes Écoles' alongside public universities.",
+            "Classes often emphasize debate, critical thinking, and essay-writing over rote memorization.",
+            "Respect for teachers is important, and classrooms are more formal compared to Anglo-American systems.",
+            "University life in large cities like Paris, Lyon, or Toulouse is vibrant, with cultural, political, and artistic student groups."
+        ],
+        "dailyLife": [
+            "Meals are central to French daily life — breakfast is light, lunch is important, and dinner is often a social affair.",
+            "Cafés are integral to lifestyle, where people meet friends, read, or enjoy coffee and pastries.",
+            "Work-life balance is highly valued — the French work 35 hours per week by law, with long vacations.",
+            "Shops may close for lunch breaks in smaller towns, though cities are busier all day.",
+            "Public transport is efficient, with metro, buses, and trains widely used.",
+            "Punctuality is expected for professional meetings, though social gatherings may start later.",
+            "Politeness, especially in greetings, is part of daily etiquette."
+        ],
+        "festival": [
+            {
+                "title": "Bastille Day (July 14)",
+                "description": "France’s National Day, commemorating the French Revolution, celebrated with parades, fireworks, and parties across the country."
+            },
+            {
+                "title": "Christmas",
+                "description": "Celebrated with festive markets, traditional foods like 'bûche de Noël,' and family gatherings."
+            },
+            {
+                "title": "Easter (Pâques)",
+                "description": "Celebrated with church services, chocolate eggs, and bells that 'fly to Rome' in tradition."
+            },
+            {
+                "title": "Fête de la Musique (June 21)",
+                "description": "A nationwide celebration of music with free concerts and street performances."
+            },
+            {
+                "title": "Carnival of Nice",
+                "description": "One of the world's most famous carnivals, with parades, costumes, and flower battles."
+            },
+            {
+                "title": "Armistice Day (November 11)",
+                "description": "Honoring the end of World War I and fallen soldiers, marked by ceremonies at monuments."
+            }
+        ],
+        "lifestyle": [
+            {
+                "title": "Housing",
+                "description": "City life includes apartments, often in historic buildings, while rural areas feature stone houses and villas. Student housing is available in CROUS residences."
+            },
+            {
+                "title": "Food habits",
+                "description": "French cuisine emphasizes fresh bread, cheese, wine, and regional specialties. Meals are eaten slowly, and dining is seen as a cultural ritual."
+            },
+            {
+                "title": "Work-life balance",
+                "description": "The French enjoy strong labor protections, long holidays, and emphasis on leisure. The 35-hour workweek law reflects this balance."
+            },
+            {
+                "title": "Shopping",
+                "description": "Markets, bakeries, and specialty shops remain popular despite supermarkets. High-end fashion boutiques are iconic in cities like Paris."
+            },
+            {
+                "title": "Health & wellness",
+                "description": "France has one of the best healthcare systems in the world, combining public and private services."
+            },
+            {
+                "title": "Transportation",
+                "description": "High-speed trains (TGV), metros, and buses are efficient. Biking is increasingly popular in cities."
+            }
+        ],
+        "socialConnections": [
+            "Friendship takes time to build, but once established, it is deep and loyal.",
+            "Meals are social events — inviting someone to dinner is a sign of closeness.",
+            "Family life is important, with Sundays often reserved for family meals.",
+            "Dating is casual but polite; relationships are seen as private matters.",
+            "The French value intellectual discussions and enjoy debating politics, philosophy, and culture.",
+            "Community life revolves around cafés, schools, cultural associations, and local festivals."
+        ],
+        "practicalInformation": [
+            {
+                "title": "Currency",
+                "description": "Euro (€). Common denominations include coins (€1, €2) and notes (€5, €10, €20, €50, €100)."
+            },
+            {
+                "title": "Transport",
+                "description": "The Paris Metro and national TGV train system are among the most efficient in Europe. Ride-sharing apps like BlaBlaCar are widely used."
+            },
+            {
+                "title": "Banking",
+                "description": "ATMs are common, and contactless payments are popular. Opening a bank account requires residency proof."
+            },
+            {
+                "title": "Healthcare",
+                "description": "France has universal healthcare with excellent facilities. EU students can use their EHIC, while others need health insurance."
+            },
+            {
+                "title": "Emergency numbers",
+                "description": "Dial 112 for emergencies, 15 for ambulance, 17 for police, and 18 for fire services."
+            },
+            {
+                "title": "Mobile/Internet",
+                "description": "High-speed internet is available across the country. Major providers include Orange, SFR, Free, and Bouygues."
+            },
+            {
+                "title": "Weather advice",
+                "description": "Winters are cold in the north and east, while the south has mild Mediterranean winters. Summers can be hot, especially in southern France."
+            }
+        ],
+        "dos": [
+            "Always greet with 'Bonjour' before starting a conversation.",
+            "Use 'Monsieur' or 'Madame' to address people politely.",
+            "Try French cuisine and local wines when invited.",
+            "Be punctual for business meetings.",
+            "Learn some basic French phrases; effort is appreciated.",
+            "Enjoy cultural activities like museums, cinema, and theatre."
+        ],
+        "donts": [
+            "Don’t address people informally unless invited to use 'tu' instead of 'vous.'",
+            "Don’t tip excessively; service is included in bills, though small change is appreciated.",
+            "Don’t interrupt meals — lunch and dinner are seen as sacred times.",
+            "Don’t speak loudly in public spaces.",
+            "Don’t assume everyone speaks English fluently — always try French first.",
+            "Don’t discuss money or personal income openly; it’s considered impolite."
+        ]
+    },
+    {
+        "name": "Brazil",
+        "about": {
+            "description": "Brazil, officially the Federative Republic of Brazil, is the largest country in South America and the fifth largest in the world. It shares borders with almost every South American country except Chile and Ecuador. The capital city is Brasília, while São Paulo and Rio de Janeiro are the largest metropolitan centers. Known for its Amazon rainforest, vibrant culture, and football legacy, Brazil is a country of immense diversity and natural beauty.",
+            "Languages": "Portuguese is the official language. Regional accents vary, and Spanish and English are also taught in schools. Indigenous languages are spoken in Amazonian communities.",
+            "Population": "Over 214 million people, making it the most populous country in South America. Brazil is ethnically diverse with influences from Indigenous peoples, Portuguese colonizers, African heritage, and immigrants from Italy, Germany, Japan, and the Middle East.",
+            "Climate": "Brazil has a tropical climate in the north, temperate in the south, and semi-arid in the northeast. Summers are hot and humid, while winters are mild, except in southern regions where it can get cold.",
+            "Government": "A federal presidential constitutional republic, with a President serving as both head of state and head of government.",
+            "Currency": "The Brazilian Real (BRL R$).",
+            "Famous": "Carnival festival, samba and bossa nova music, football legends like Pelé and Neymar, Amazon rainforest, Christ the Redeemer statue in Rio, beaches like Copacabana and Ipanema, and coffee production."
+        },
+        "greetings": [
+            "Common greetings include handshakes, hugs, and cheek kisses (usually one to three depending on the region).",
+            "A friendly and warm approach is the norm; Brazilians often use first names quickly.",
+            "Physical touch is common — handshakes, pats on the back, or touching the arm when talking.",
+            "People often greet with 'Olá' (Hello) or 'Oi' (Hi).",
+            "Titles like 'Senhor' (Mr.) or 'Senhora' (Mrs.) may be used in formal situations.",
+            "Brazilians are expressive; gestures, laughter, and lively tones are part of daily conversation."
+        ],
+        "academic": [
+            "Education is compulsory between ages 6 and 14, with both public and private schools available.",
+            "Portuguese is the medium of instruction, though English and Spanish are taught as secondary languages.",
+            "Higher education includes universities (Universidades) and technical institutes. Prestigious universities include USP (University of São Paulo) and UFRJ (Federal University of Rio de Janeiro).",
+            "Exams and entrance tests like ENEM (Exame Nacional do Ensino Médio) are crucial for university admissions.",
+            "Teachers are respected, but student-professor interactions can be more informal than in some Asian cultures.",
+            "Group projects, presentations, and teamwork are common academic practices.",
+            "School life often includes sports, especially football, alongside cultural activities."
+        ],
+        "dailyLife": [
+            "Family life is central; extended families often live nearby and meet frequently.",
+            "Meals are social events; lunch (almoço) is the main meal of the day.",
+            "Rice, beans, meat, and vegetables are staples; barbecue (churrasco) is popular.",
+            "Public transport (buses, metro) is common in cities, though traffic congestion is frequent.",
+            "Time is seen more flexibly — punctuality is not as strict as in countries like Japan or Germany.",
+            "Shoes are usually worn indoors, though sandals and flip-flops are common in daily life.",
+            "People enjoy outdoor activities — football, beach sports, hiking, and carnival celebrations."
+        ],
+        "festival": [
+            {
+                "title": "Carnival",
+                "description": "The world’s largest festival, held before Lent, featuring samba parades, music, costumes, and street parties."
+            },
+            {
+                "title": "Festa Junina",
+                "description": "Celebrated in June, honoring St. John with traditional dances, bonfires, rural costumes, and food like corn cakes and peanuts."
+            },
+            {
+                "title": "New Year’s Eve (Réveillon)",
+                "description": "Celebrated with fireworks and beach parties, especially in Rio de Janeiro, where people wear white for good luck."
+            },
+            {
+                "title": "Independence Day (September 7)",
+                "description": "A national holiday with parades, flag ceremonies, and cultural events."
+            },
+            {
+                "title": "Holy Week (Semana Santa)",
+                "description": "Christian celebrations with processions, reenactments, and church gatherings."
+            },
+            {
+                "title": "Parintins Folklore Festival",
+                "description": "A cultural event in the Amazon celebrating Indigenous traditions, featuring music, dance, and theatrical performances."
+            }
+        ],
+        "lifestyle": [
+            {
+                "title": "Housing",
+                "description": "In urban areas, apartments are common, while rural areas feature detached houses. Gated communities are popular in cities."
+            },
+            {
+                "title": "Food habits",
+                "description": "Brazilian cuisine is diverse: feijoada (black bean stew with pork), pão de queijo (cheese bread), brigadeiro (chocolate sweet), and tropical fruits are everyday favorites."
+            },
+            {
+                "title": "Work-life balance",
+                "description": "Brazilians value leisure; weekends are often for family gatherings, football matches, and beach visits."
+            },
+            {
+                "title": "Shopping",
+                "description": "Markets, street vendors, and malls are popular. Bargaining is less common than in Asia but can happen in informal markets."
+            },
+            {
+                "title": "Health & wellness",
+                "description": "Brazil has a public healthcare system (SUS), complemented by private hospitals. Fitness culture is strong, with gyms and outdoor workouts being common."
+            },
+            {
+                "title": "Transportation",
+                "description": "Buses and metros are the main transport in cities. Ride-hailing apps like Uber are widely used."
+            }
+        ],
+        "socialConnections": [
+            "Friendship and warmth are central to Brazilian culture.",
+            "People are very social — gatherings, parties, and celebrations happen frequently.",
+            "Football is not just a sport but a social glue; friends and families watch matches together.",
+            "Family is important, and elders are respected, though interactions are often casual and affectionate.",
+            "Dating culture is open and expressive, with public affection being common.",
+            "Community life is active, with neighborhoods often gathering for festivals and local events."
+        ],
+        "practicalInformation": [
+            {
+                "title": "Currency",
+                "description": "Brazilian Real (BRL R$). Coins range from 5 centavos to 1 real; notes go up to 200 reais."
+            },
+            {
+                "title": "Transport",
+                "description": "Public transport is affordable but crowded in big cities. Metro systems exist in Rio, São Paulo, and a few others. Domestic flights are common due to Brazil’s size."
+            },
+            {
+                "title": "Banking",
+                "description": "Credit/debit cards are widely accepted, but cash is still common in small towns. Pix (instant payment system) is very popular."
+            },
+            {
+                "title": "Healthcare",
+                "description": "Public healthcare (SUS) is free for residents, but private hospitals offer faster and higher-quality services."
+            },
+            {
+                "title": "Emergency numbers",
+                "description": "Dial 190 for police, 192 for ambulance, and 193 for fire."
+            },
+            {
+                "title": "Mobile/Internet",
+                "description": "Good connectivity in urban areas; 4G is widespread, and 5G is expanding. WhatsApp is the most used communication tool."
+            },
+            {
+                "title": "Weather advice",
+                "description": "Pack light clothes for tropical areas, rain gear for the Amazon, and warmer clothes for the southern winter."
+            }
+        ],
+        "dos": [
+            "Greet people warmly with hugs, kisses, or handshakes.",
+            "Show enthusiasm when talking about football, culture, or food.",
+            "Be flexible with time and schedules.",
+            "Try local dishes like feijoada, brigadeiro, and churrasco.",
+            "Respect cultural diversity, especially Indigenous and Afro-Brazilian traditions."
+        ],
+        "donts": [
+            "Don’t be overly formal — Brazilians prefer friendliness and warmth.",
+            "Don’t skip greetings; ignoring people is seen as rude.",
+            "Don’t stereotype Brazil only by carnival or football — it’s much more diverse.",
+            "Don’t display indifference to football if asked about it.",
+            "Don’t compare Brazil negatively with neighboring countries."
+        ]
+    },
+    {
+        "name": "Italy",
+        "about": {
+            "description": "Italy, officially the Italian Republic, is a Southern European country located on the Mediterranean Sea. Known as the cradle of the Roman Empire and the birthplace of the Renaissance, Italy has played a central role in shaping European art, history, cuisine, and culture. Its capital is Rome, home to the Vatican City, while major cities include Milan (fashion capital), Florence (Renaissance hub), and Venice (city of canals).",
+            "Languages": "Italian is the official language, with regional dialects widely spoken (e.g., Sicilian, Neapolitan, Venetian). Minority languages include German (South Tyrol), French (Valle d'Aosta), and Slovene (Friuli Venezia Giulia).",
+            "Population": "Approximately 59 million people, with a mix of modern urban lifestyles and traditional rural communities.",
+            "Climate": "Mediterranean climate — hot, dry summers and mild, wet winters. Northern Italy experiences colder winters with snow, while southern regions remain warm year-round.",
+            "Government": "A parliamentary republic with a President as head of state and Prime Minister as head of government.",
+            "Currency": "Euro (€).",
+            "Famous": "Pizza, pasta, espresso, gelato, Roman ruins, Renaissance art, high fashion (Gucci, Prada, Armani), football, and cultural icons like Leonardo da Vinci and Michelangelo."
+        },
+        "greetings": [
+            "Italians commonly greet with 'Ciao' (informal) or 'Buongiorno' (formal, meaning good morning).",
+            "Friends and family often greet with a kiss on both cheeks (starting from the left).",
+            "Handshakes are standard in professional or formal contexts, accompanied by direct eye contact.",
+            "Italians use expressive body language and gestures in conversation.",
+            "Titles like 'Dottore/Dottoressa' (for graduates), 'Signore/Signora' (Mr./Mrs.) are commonly used to show respect.",
+            "Politeness is important — saying 'Grazie' (thank you) and 'Prego' (you’re welcome) is expected."
+        ],
+        "academic": [
+            "Italy has one of the world’s oldest universities: University of Bologna (founded in 1088).",
+            "Education is highly structured — primary, lower secondary, and upper secondary schooling followed by universities.",
+            "Exams and oral tests are an essential part of academics.",
+            "Lectures are common in universities; student participation is also encouraged.",
+            "Grading system typically ranges from 0 to 30, with 18 as the passing mark.",
+            "Research and design-based courses (art, architecture, engineering, fashion) are internationally recognized.",
+            "Student life includes cultural clubs, sports, and participation in community activities."
+        ],
+        "dailyLife": [
+            "Family is central to Italian life, with many young adults living with parents until their late 20s or 30s.",
+            "Meals are social events, often lasting longer than in other cultures.",
+            "Shoes are generally kept on indoors, but in some households, they may be removed.",
+            "Lunch is often the main meal of the day, traditionally including multiple courses.",
+            "Italians value punctuality in professional life but are more relaxed socially.",
+            "Public transport is widely used — buses, trains, and scooters are common.",
+            "Evening strolls ('passeggiata') are a popular social tradition."
+        ],
+        "festival": [
+            {
+                "title": "Carnival of Venice",
+                "description": "A world-famous festival with elaborate masks, costumes, parades, and performances."
+            },
+            {
+                "title": "Ferragosto (August 15)",
+                "description": "A national holiday marking the peak of summer with family gatherings, feasts, and vacations."
+            },
+            {
+                "title": "Easter (Pasqua)",
+                "description": "Celebrated with processions, church services, and traditional foods like 'Colomba' cake."
+            },
+            {
+                "title": "Palio di Siena",
+                "description": "A historic horse race held in Siena’s Piazza del Campo, celebrated with medieval pageantry."
+            },
+            {
+                "title": "Christmas (Natale)",
+                "description": "A major festival celebrated with family dinners, midnight mass, nativity scenes, and festive markets."
+            },
+            {
+                "title": "La Befana (January 6)",
+                "description": "An Epiphany celebration where a kindly old woman delivers sweets or coal to children."
+            },
+            {
+                "title": "Republic Day (June 2)",
+                "description": "Marks the founding of the Italian Republic with parades and national pride."
+            }
+        ],
+        "lifestyle": [
+            {
+                "title": "Housing",
+                "description": "Apartments in historic buildings are common in cities, while villas and farmhouses are typical in rural areas."
+            },
+            {
+                "title": "Food habits",
+                "description": "Italian cuisine is globally celebrated: pasta, pizza, risotto, espresso, wine, and gelato. Meals often include antipasto (starter), primo (pasta/risotto), secondo (meat/fish), contorno (side dish), and dolce (dessert)."
+            },
+            {
+                "title": "Work-life balance",
+                "description": "Work hours often include a long lunch break; 'riposo' (afternoon rest) is common in smaller towns."
+            },
+            {
+                "title": "Shopping",
+                "description": "Open-air markets, artisan shops, and high-fashion boutiques are integral to Italian lifestyle."
+            },
+            {
+                "title": "Health & wellness",
+                "description": "The Mediterranean diet, rich in vegetables, olive oil, and seafood, contributes to good health. Italians value walking and cycling."
+            },
+            {
+                "title": "Transportation",
+                "description": "Efficient train network connects major cities. Scooters and small cars are popular for navigating narrow streets."
+            }
+        ],
+        "socialConnections": [
+            "Family gatherings, especially Sunday lunches, are a key tradition.",
+            "Friendships are warm and expressive, often revolving around food, coffee, and social outings.",
+            "Romantic relationships are openly expressed, and dating culture is relaxed.",
+            "Respect for elders is shown, but younger generations enjoy more independence.",
+            "Sports, especially football (soccer), play a huge role in social life.",
+            "Community festivals and neighborhood interactions strengthen bonds."
+        ],
+        "practicalInformation": [
+            {
+                "title": "Currency",
+                "description": "Euro (€). ATMs (Bancomat) are widely available."
+            },
+            {
+                "title": "Transport",
+                "description": "Extensive train system (Trenitalia, Italo) and urban metros in Rome, Milan, and Naples. Taxis can be expensive."
+            },
+            {
+                "title": "Banking",
+                "description": "Credit cards are accepted, but cash is still widely used, especially in small towns."
+            },
+            {
+                "title": "Healthcare",
+                "description": "Universal healthcare system (Servizio Sanitario Nazionale). Tourists may need travel insurance."
+            },
+            {
+                "title": "Emergency numbers",
+                "description": "112 for emergencies (police, ambulance, fire)."
+            },
+            {
+                "title": "Mobile/Internet",
+                "description": "Widely available with providers like TIM, Vodafone, and WindTre. Wi-Fi is common but slower in rural areas."
+            },
+            {
+                "title": "Weather advice",
+                "description": "Light clothing for summer, coats for winter in the north, and comfortable shoes for walking in historic towns."
+            }
+        ],
+        "dos": [
+            "Greet with a handshake or cheek kisses depending on familiarity.",
+            "Dress smartly — Italians value appearance and style.",
+            "Respect meal times and enjoy food slowly.",
+            "Learn basic Italian phrases; locals appreciate the effort.",
+            "Respect churches by dressing modestly when visiting.",
+            "Participate in social traditions like evening passeggiata."
+        ],
+        "donts": [
+            "Don’t order cappuccino after 11 a.m. — it’s considered a breakfast drink.",
+            "Don’t eat pizza with ketchup or alter traditional dishes.",
+            "Don’t talk loudly in churches or sacred sites.",
+            "Don’t skip greetings — always say 'Buongiorno' when entering shops or restaurants.",
+            "Don’t expect punctuality at social events (a little lateness is common).",
+            "Don’t assume all Italians eat the same food — regional cuisines vary greatly."
+        ]
+    },
+    {
+        "name": "China",
+        "about": {
+            "description": "China, officially the People’s Republic of China (PRC), is the world’s most populous country and the fourth-largest by area, located in East Asia. It shares borders with 14 countries including India, Russia, and Mongolia. With thousands of years of history, China is known as one of the world’s oldest continuous civilizations, influencing philosophy, science, technology, literature, and art. Its capital is Beijing, while major cities include Shanghai (financial hub), Guangzhou (manufacturing center), and Shenzhen (technology hub).",
+            "Languages": "Mandarin Chinese (Putonghua) is the official language, but China has 55 recognized ethnic minorities who speak their own languages and dialects (e.g., Cantonese, Tibetan, Uighur, Mongolian, Hakka).",
+            "Population": "Over 1.4 billion people, making it the most populous country in the world, with diverse ethnic groups such as Han (majority), Zhuang, Hui, Tibetan, Uyghur, and Mongol.",
+            "Climate": "China has diverse climates — arid deserts in the northwest, monsoon regions in the south, temperate zones in the east, and harsh winters in the north and Tibetan plateau. Summers are hot and humid in many regions, while winters vary from mild in the south to freezing in the north.",
+            "Government": "A socialist one-party state governed by the Communist Party of China (CPC). The President is head of state and the Premier is head of government.",
+            "Currency": "Renminbi (RMB), commonly known as the Yuan (¥).",
+            "Famous": "The Great Wall of China, Terracotta Army, Chinese New Year, martial arts (Kung Fu, Tai Chi), Chinese medicine, calligraphy, silk, tea, pandas, Confucianism, Taoism, inventions like paper, compass, printing, and gunpowder."
+        },
+        "greetings": [
+            "The common greeting is 'Nǐ hǎo' (你好) meaning 'Hello'.",
+            "Handshakes are increasingly common in business settings, but traditionally people greet with a slight bow or nod.",
+            "Titles are important — addressing people by family name followed by a title (e.g., 'Wang Laoshi' for Teacher Wang) shows respect.",
+            "It’s polite to acknowledge elders first when greeting a group.",
+            "Physical affection in greetings is rare — hugs and cheek kisses are uncommon.",
+            "Politeness is shown through modesty, respectful tone, and avoiding overly direct refusals.",
+            "Exchanging business cards with both hands is a sign of respect."
+        ],
+        "academic": [
+            "Education is highly competitive and exam-oriented, especially with the National College Entrance Examination (Gaokao).",
+            "Teachers hold great respect, and classrooms are often disciplined and formal.",
+            "Memorization and hard work are emphasized, though creativity and innovation are increasingly encouraged.",
+            "Grading usually follows a percentage system (0–100) with 60 as the passing mark.",
+            "Universities in China include world-class institutions like Tsinghua University and Peking University.",
+            "STEM subjects, engineering, and business studies are highly valued.",
+            "Campus life includes clubs, sports, and cultural associations, though academic pressure remains strong."
+        ],
+        "dailyLife": [
+            "Family is central in daily life — respect for parents and grandparents is rooted in Confucian traditions.",
+            "Many families practice multi-generational living under one roof.",
+            "Meals are often shared from common dishes, eaten with chopsticks.",
+            "Breakfast is usually savory (e.g., steamed buns, congee, dumplings) instead of sweet.",
+            "Public transport is highly developed — subways, buses, and high-speed trains are widely used.",
+            "Work and study schedules can be intense, especially in urban centers.",
+            "In rural areas, daily life often revolves around agriculture and community activities."
+        ],
+        "festival": [
+            {
+                "title": "Chinese New Year (Spring Festival)",
+                "description": "The most important festival, celebrated with family reunions, red decorations, dragon dances, fireworks, and giving red envelopes (hóngbāo)."
+            },
+            {
+                "title": "Mid-Autumn Festival",
+                "description": "Celebrated with mooncakes and family gatherings, honoring the full moon and reunion."
+            },
+            {
+                "title": "Dragon Boat Festival",
+                "description": "Marked by dragon boat races and eating sticky rice dumplings (zongzi) in memory of poet Qu Yuan."
+            },
+            {
+                "title": "Lantern Festival",
+                "description": "Celebrated on the 15th day of the Lunar New Year with lantern displays, riddles, and glutinous rice balls (tāngyuán)."
+            },
+            {
+                "title": "National Day (October 1)",
+                "description": "Marks the founding of the PRC with parades, fireworks, and patriotic events."
+            },
+            {
+                "title": "Qingming Festival (Tomb-Sweeping Day)",
+                "description": "Families honor ancestors by cleaning graves and making offerings."
+            },
+            {
+                "title": "Double Seventh Festival (Qixi)",
+                "description": "Known as Chinese Valentine’s Day, celebrating the legendary love story of the cowherd and the weaver girl."
+            }
+        ],
+        "lifestyle": [
+            {
+                "title": "Housing",
+                "description": "High-rise apartments dominate urban areas, while traditional courtyard houses (siheyuan) and rural homes remain in villages."
+            },
+            {
+                "title": "Food habits",
+                "description": "Chinese cuisine varies greatly by region — spicy Sichuan dishes, Cantonese dim sum, northern noodles, and southern rice-based meals. Tea culture is deeply ingrained."
+            },
+            {
+                "title": "Work-life balance",
+                "description": "Work culture in cities can be demanding (the '996' schedule: 9 a.m. to 9 p.m., six days a week). Weekends and public holidays are valued for family gatherings."
+            },
+            {
+                "title": "Shopping",
+                "description": "China leads in e-commerce, with platforms like Taobao, JD.com, and Pinduoduo. Street markets and malls coexist with online shopping."
+            },
+            {
+                "title": "Health & wellness",
+                "description": "Traditional Chinese Medicine (TCM) — acupuncture, herbal remedies, and Tai Chi — coexists with modern healthcare."
+            },
+            {
+                "title": "Transportation",
+                "description": "China has the world’s largest high-speed rail network. Bicycles and electric scooters are common in cities."
+            }
+        ],
+        "socialConnections": [
+            "Family bonds are central; filial piety (respect for parents and elders) is a core value.",
+            "Friendships are built gradually, often through shared meals and trust.",
+            "Business relationships rely on 'guanxi' (personal connections and networks).",
+            "Marriage and family remain important, though dating culture is growing among younger generations.",
+            "Group activities such as karaoke (KTV), mahjong, and shared meals are popular.",
+            "Social media platforms like WeChat and Weibo are dominant for communication and networking.",
+            "Hospitality is shown by offering food, tea, and gifts during visits."
+        ],
+        "practicalInformation": [
+            {
+                "title": "Currency",
+                "description": "Renminbi (RMB ¥). Notes include denominations up to ¥100; mobile payments (WeChat Pay, Alipay) are more common than cash."
+            },
+            {
+                "title": "Transport",
+                "description": "Extensive metro systems in major cities. High-speed trains connect regions efficiently. Taxis and ride-hailing apps like Didi are widely used."
+            },
+            {
+                "title": "Banking",
+                "description": "Digital wallets dominate daily life; traditional banking is also available but less used for small payments."
+            },
+            {
+                "title": "Healthcare",
+                "description": "Public healthcare is available, but many opt for private hospitals for quicker services. Insurance is common for expats."
+            },
+            {
+                "title": "Emergency numbers",
+                "description": "110 for police, 120 for ambulance, 119 for fire, 122 for traffic accidents."
+            },
+            {
+                "title": "Mobile/Internet",
+                "description": "Internet is regulated (Great Firewall). Google, Facebook, and YouTube are blocked, but local platforms like Baidu, WeChat, and TikTok (Douyin) thrive."
+            },
+            {
+                "title": "Weather advice",
+                "description": "Pack according to region — heavy coats for northern winters, light clothes for humid summers, and rain gear during monsoons."
+            }
+        ],
+        "dos": [
+            "Use both hands when giving or receiving something, especially gifts or business cards.",
+            "Show respect to elders and superiors in speech and behavior.",
+            "Be punctual for meetings and formal gatherings.",
+            "Try local dishes and show appreciation for Chinese food culture.",
+            "Learn basic Mandarin phrases; effort in language is valued.",
+            "Participate politely in traditions, such as toasting during meals."
+        ],
+        "donts": [
+            "Don’t stick chopsticks upright in rice — it resembles funeral offerings.",
+            "Don’t give clocks, white flowers, or sharp objects as gifts — they symbolize bad luck.",
+            "Don’t openly criticize Chinese politics or government.",
+            "Don’t write names in red ink — it is associated with death.",
+            "Don’t touch someone’s head — it is considered disrespectful.",
+            "Don’t point directly with your finger; use your whole hand instead."
+        ]
+    },
+    {
+        "name": "UK",
+        "about": {
+            "description": "The United Kingdom (UK), officially the United Kingdom of Great Britain and Northern Ireland, is located in northwestern Europe. It comprises four nations — England, Scotland, Wales, and Northern Ireland. London is the capital and global financial hub. The UK is famous for its historic monarchy, diverse culture, and global influence in politics, science, literature, and music. Landmarks like Big Ben, Buckingham Palace, and Stonehenge are world-renowned.",
+            "Languages": "English is the official and primary language. Regional languages include Welsh (Wales), Scottish Gaelic (Scotland), and Irish (Northern Ireland). Immigrant communities also speak Punjabi, Urdu, Arabic, and Polish.",
+            "Population": "Approximately 67 million people. The population is highly diverse due to centuries of immigration and multiculturalism.",
+            "Climate": "Mild temperate climate. Winters are cool and wet (0–8°C), summers are mild (15–25°C). Rainfall is common throughout the year. Snowfall occurs occasionally in northern and hilly regions.",
+            "Government": "A constitutional monarchy with a parliamentary democracy. The monarch is the ceremonial head of state, while the Prime Minister leads the government.",
+            "Currency": "British Pound Sterling (£, GBP).",
+            "Famous": "Royal Family, afternoon tea, football (soccer), Shakespeare, The Beatles, Harry Potter, universities like Oxford & Cambridge, double-decker buses, red phone boxes, and fish & chips."
+        },
+        "greetings": [
+            "Handshakes are the most common form of greeting in formal and professional settings.",
+            "In casual settings, people often greet with a simple 'Hello,' 'Hi,' or 'How are you?'",
+            "First names are used widely, though titles and surnames are used in very formal situations.",
+            "Politeness is key — phrases like 'please,' 'thank you,' and 'sorry' are used frequently.",
+            "People generally respect personal space and avoid physical contact with strangers.",
+            "Small talk about weather, sports, or weekend plans is a common way to break the ice."
+        ],
+        "academic": [
+            "The UK has one of the world’s most respected education systems, with renowned universities like Oxford, Cambridge, and the London School of Economics.",
+            "Classroom culture encourages critical thinking, debate, and independent learning.",
+            "Students address teachers formally (Mr., Ms., Dr., or Professor), though relationships are friendly.",
+            "Assignments, essays, and research projects are key components of grading.",
+            "Assessment methods include coursework, exams, presentations, and group projects.",
+            "International students often receive support services to adapt to UK academic culture.",
+            "Extracurricular activities such as sports, debate clubs, and arts societies are very popular."
+        ],
+        "dailyLife": [
+            "Punctuality is highly valued — being late is considered rude.",
+            "Tea culture is strong; many people enjoy tea breaks during the day.",
+            "Public transport is widely used — especially the London Underground (Tube), buses, and trains.",
+            "Queuing (standing in line) is taken very seriously and seen as a sign of politeness.",
+            "People generally dress according to the weather, with coats and umbrellas being essentials.",
+            "Work-life balance is important; weekends are often spent with family, sports, or leisure.",
+            "Pub culture is a big part of social life, though also inclusive of dining and socializing."
+        ],
+        "festival": [
+            {
+                "title": "Christmas (December 25)",
+                "description": "The most celebrated holiday, with family gatherings, gift exchanges, church services, and festive meals including roast turkey and Christmas pudding."
+            },
+            {
+                "title": "Easter",
+                "description": "Celebrated with church services, chocolate eggs, parades, and traditions like the Easter Bunny."
+            },
+            {
+                "title": "Bonfire Night (November 5)",
+                "description": "Also called Guy Fawkes Night, marked with fireworks, bonfires, and traditional snacks."
+            },
+            {
+                "title": "St. Patrick’s Day (March 17)",
+                "description": "Especially popular in Northern Ireland, celebrated with parades, music, and green-themed events."
+            },
+            {
+                "title": "Notting Hill Carnival",
+                "description": "One of Europe’s biggest street festivals in London, celebrating Caribbean culture with music, costumes, and dance."
+            },
+            {
+                "title": "Remembrance Day (November 11)",
+                "description": "Honors soldiers who died in wars, marked with a two-minute silence and poppy symbols."
+            },
+            {
+                "title": "New Year’s Eve",
+                "description": "Celebrated with fireworks, especially in London along the Thames, and the famous countdown at Big Ben."
+            }
+        ],
+        "lifestyle": [
+            {
+                "title": "Housing",
+                "description": "Urban housing includes flats, terraced houses, and student accommodations. In rural areas, cottages and detached homes are common."
+            },
+            {
+                "title": "Food habits",
+                "description": "Traditional dishes include fish & chips, roast dinners, and full English breakfasts. International cuisines like Indian, Chinese, and Italian are very popular."
+            },
+            {
+                "title": "Work-life balance",
+                "description": "A strong focus on balancing career and leisure. Employees typically work 35–40 hours per week with holidays and paid leave."
+            },
+            {
+                "title": "Shopping",
+                "description": "High streets, supermarkets, and shopping centers are common. Online shopping via Amazon, ASOS, and Tesco is widespread."
+            },
+            {
+                "title": "Health & wellness",
+                "description": "The National Health Service (NHS) provides free healthcare to residents. Fitness culture includes gyms, jogging, and sports."
+            },
+            {
+                "title": "Transportation",
+                "description": "The UK has extensive public transport. Driving is on the left side of the road. Bicycles are common in cities like Cambridge and Oxford."
+            }
+        ],
+        "socialConnections": [
+            "Friendships often develop in schools, universities, or workplaces.",
+            "People enjoy socializing in pubs, cafes, or through sports clubs.",
+            "Family values remain important, though individual independence is also highly respected.",
+            "Dating culture is open, and people may meet through apps, social events, or friends.",
+            "Volunteerism and charity work are widespread forms of community engagement.",
+            "Sports, especially football, cricket, and rugby, are a big part of social life."
+        ],
+        "practicalInformation": [
+            {
+                "title": "Currency",
+                "description": "British Pound Sterling (£, GBP). Common coins include 1p to £2; notes range from £5 to £50."
+            },
+            {
+                "title": "Transport",
+                "description": "Buses, trains, and the London Underground are widely used. Students can get discounted travel passes."
+            },
+            {
+                "title": "Banking",
+                "description": "Contactless payments and debit/credit cards are widely accepted. Mobile banking is common."
+            },
+            {
+                "title": "Healthcare",
+                "description": "The NHS provides public healthcare, though private healthcare options also exist."
+            },
+            {
+                "title": "Emergency numbers",
+                "description": "Dial 999 for police, ambulance, or fire services. 111 is for non-emergency medical advice."
+            },
+            {
+                "title": "Mobile/Internet",
+                "description": "Reliable 4G/5G networks with providers like Vodafone, O2, EE, and Three. Wi-Fi is common in homes and public spaces."
+            },
+            {
+                "title": "Weather advice",
+                "description": "Rain is frequent — carrying an umbrella is essential. Winters require coats, scarves, and gloves."
+            }
+        ],
+        "dos": [
+            "Do stand in queues patiently.",
+            "Do greet people politely with 'Hello' or 'Hi'.",
+            "Do respect personal space and privacy.",
+            "Do arrive on time for meetings and appointments.",
+            "Do try traditional British food and afternoon tea.",
+            "Do engage in small talk, especially about weather or sports."
+        ],
+        "donts": [
+            "Don’t cut in queues — it is considered very rude.",
+            "Don’t be overly loud in public places.",
+            "Don’t make jokes about the monarchy or sensitive political issues.",
+            "Don’t invade personal space — British people value privacy.",
+            "Don’t forget to say 'please' and 'thank you' — politeness is expected.",
+            "Don’t assume everyone has the same accent or traditions — the UK is diverse."
+        ]
+    }
+]
