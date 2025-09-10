@@ -12,7 +12,7 @@ const AprovePost = () => {
 
     const fetchPosts = () => {
         fetch(
-            `http://localhost:3001/post`
+            `https://cultureatlas-6v1m.onrender.com/post`
         ).then((rawdata) => {
             return rawdata.json()
         }).then((data) => {

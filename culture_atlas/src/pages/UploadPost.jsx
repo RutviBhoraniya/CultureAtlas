@@ -63,7 +63,7 @@ const UploadPost = () => {
 
     try {
       if (type == "photoes" || type == "story") {
-        const response = await fetch("http://localhost:3001/post/addPhotosPost", {
+        const response = await fetch("https://cultureatlas-6v1m.onrender.com/post/addPhotosPost", {
           method: "POST",
           body: formData,
         });
@@ -71,7 +71,7 @@ const UploadPost = () => {
         console.log("Server Response:", data);
         alert(data.message);
       } else if (type == "reel") {
-        const response = await fetch("http://localhost:3001/post/addReelsPost", {
+        const response = await fetch("https://cultureatlas-6v1m.onrender.com/post/addReelsPost", {
           method: "POST",
           body: formData,
         });

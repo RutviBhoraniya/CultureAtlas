@@ -11,7 +11,7 @@ const Story = ({ title, description, photoUrl, postId, role, onApprove  }) => {
   useEffect(() => {
     const checkLike = async () => {
       try {
-        const res = await fetch(`http://localhost:3001/postLike/check?postId=${postId}&userid=${currentUserId}`);
+        const res = await fetch(`https://cultureatlas-6v1m.onrender.com/postLike/check?postId=${postId}&userid=${currentUserId}`);
         const data = await res.json();
         if (data.liked) {
           setLiked(true);
@@ -31,7 +31,7 @@ const Story = ({ title, description, photoUrl, postId, role, onApprove  }) => {
 
     try {
       if (!liked) {
-        const res = await fetch("http://localhost:3001/postLike/like", {
+        const res = await fetch("https://cultureatlas-6v1m.onrender.com/postLike/like", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ postId, userid: currentUserId }),
@@ -44,7 +44,7 @@ const Story = ({ title, description, photoUrl, postId, role, onApprove  }) => {
         }
       } else {
         await fetch(
-          `http://localhost:3001/postLike/unlike?postId=${postId}&userid=${currentUserId}`,
+          `https://cultureatlas-6v1m.onrender.com/postLike/unlike?postId=${postId}&userid=${currentUserId}`,
           { method: "DELETE" }
         );
         setLiked(false);
@@ -57,7 +57,7 @@ const Story = ({ title, description, photoUrl, postId, role, onApprove  }) => {
   const handleApprove = async () => {
     try {
       const res = await fetch(
-        `http://localhost:3001/post/approve?postId=${postId}`,
+        `https://cultureatlas-6v1m.onrender.com/post/approve?postId=${postId}`,
         { method: "POST" }
       );
       const data = await res.json();

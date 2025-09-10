@@ -19,7 +19,7 @@ const Login = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault()
-    fetch("http://localhost:3001/user/login",{
+    fetch("https://cultureatlas-6v1m.onrender.com/user/login",{
       method:"POST",
       headers: {"Content-Type": "application/json"},
       body:JSON.stringify({

@@ -16,7 +16,7 @@ const Posts = () => {
 
   const fetchPosts = () => {
     fetch(
-      `http://localhost:3001/post?category=${encodeURIComponent(category)}&contry=${encodeURIComponent(contry)}`
+      `https://cultureatlas-6v1m.onrender.com/post?category=${encodeURIComponent(category)}&contry=${encodeURIComponent(contry)}`
     ).then((rawdata) => {
       return rawdata.json()
     }).then((data) => {

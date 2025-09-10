@@ -14,7 +14,7 @@ const SignUp = () => {
     e.preventDefault()
     if(name && email && password && confirmPassword && contry){
       if(password==confirmPassword){
-        fetch("http://localhost:3001/user/signUp",{
+        fetch("https://cultureatlas-6v1m.onrender.com/user/signUp",{
           method:"POST",
           headers: {"Content-Type": "application/json"},
           body:JSON.stringify({

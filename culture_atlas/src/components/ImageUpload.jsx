@@ -8,7 +8,7 @@ function ImageUpload() {
     const formData = new FormData();
     formData.append('image', file);  // 'image' matches multer setup
 
-    const res = await fetch('http://localhost:3001/upload', {
+    const res = await fetch('https://cultureatlas-6v1m.onrender.com/upload', {
       method: 'POST',
       body: formData,
     });
